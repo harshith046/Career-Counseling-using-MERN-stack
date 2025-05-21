@@ -19,22 +19,24 @@ The **Career Counseling Platform** is a dynamic web application focused on enhan
 ## 🚀 How to Run the Project
 
 1. Clone the repository:  
-   `git clone https://github.com/harshith046/Career-Counseling-using-MERN-stack.git`  
-   `cd Career-Counseling-using-MERN-stack`
+   ```
+   git clone https://github.com/harshith046/Career-Counseling-using-MERN-stack.git
+   cd Career-Counseling-using-MERN-stack
+   ```
 
    Split your terminal into two and navigate to the `frontend` and `backend` folders:  
    In one terminal: `cd frontend`  
    In the other terminal: `cd backend`
 
-2. Install dependencies in both the frontend and backend directories:  
+3. Install dependencies in both the frontend and backend directories:  
    `npm install`  (or use `npm i`)
    
-3. To set up the database, in the backend terminal, install the MongoDB package:  
+4. To set up the database, in the backend terminal, install the MongoDB package:  
    `npm install mongodb`  
    Then open the `db.js` file in the backend folder and update,
    `const mongoURI = "your_mongodb_connection_string_here";`
    
-4. Now start the backend server:  
+5. Now start the backend server:  
    `npm start`  ->  Make sure it connects to the database successfully.
    
    Run the frontend in the other terminal:  
@@ -52,7 +54,7 @@ The **Career Counseling Platform** is a dynamic web application focused on enhan
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 
 Contributions are welcome! Fork the repository, make your changes in a new branch, and submit a pull request. Whether it's fixing bugs, improving UI, or adding features, your input is appreciated.
 
