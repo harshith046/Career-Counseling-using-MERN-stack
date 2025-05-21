@@ -43,7 +43,7 @@ The **Career Counseling Platform** is a dynamic web application focused on enhan
    
    ---
 
-## 🧠 Tech Stack
+## 🧠 Techologies Used
 
 - **Frontend**: React.js, JavaScript, HTML, CSS  
 - **Backend**: Node.js, Express.js  
